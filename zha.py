@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 vipro = LINETCR.LINE()
 #vipro.login(qr=True)
-vipro.login(token='EqKbm0i8wJmClFjXw1t8.tH/JL3RnwGLmjKM3AW/o2a.5oRvFLZLB8zp4YjZtv+p10jAB4+6GzZFGNO5fOmlrvs=')
+vipro.login(token='shbWd+t/753k9FCj27Pm6nd62bFslY53ecd07CXkNhoaUhBgQ4C7apdTI74RQky47YN1I3vWVLaaz2H3QK82/b+QJllx6sOKp5Nsj6IGz8XeDHMCs6diLKMy7PUnY7BGWCQiJWsVHevcA4PY8/OmCgdB04t89/1O/w1cDnyilFU=')
 vipro.loginResult()
 print "zhabot-Login Success\n\n=====[Sukses Login]====="
 
@@ -147,7 +147,7 @@ groupMessage ="""
 ║    〽️ http://line.me/ti/p/~zz_zha 〽️
 ╚═════════════════════════
 """
-tjia="u4e1fa3977acd5a094c2649b76b0f8ed8"
+tjia="a43e7333ad8bba1e05bbf01707a97d20"
 
 setMessage ="""
 ╔═════════════════════════
@@ -252,8 +252,8 @@ helpMessage ="""
 KAC=[vipro]
 mid = vipro.getProfile().mid
 Bots=[mid]
-Creator=["u4e1fa3977acd5a094c2649b76b0f8ed8"]
-admin=["u4e1fa3977acd5a094c2649b76b0f8ed8"]
+Creator=["a43e7333ad8bba1e05bbf01707a97d20"]
+admin=["a43e7333ad8bba1e05bbf01707a97d20"]
 
 contact = vipro.getProfile()
 backup1 = vipro.getProfile()
