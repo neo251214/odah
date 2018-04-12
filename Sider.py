@@ -16,7 +16,7 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 
 cl = LINETCR.LINE() #Luffy
-cl.login(token='ISI TOKEN KAMU')
+cl.login(token='shbWd+t/753k9FCj27Pm6nd62bFslY53ecd07CXkNhoaUhBgQ4C7apdTI74RQky47YN1I3vWVLaaz2H3QK82/b+QJllx6sOKp5Nsj6IGz8XeDHMCs6diLKMy7PUnY7BGWCQiJWsVHevcA4PY8/OmCgdB04t89/1O/w1cDnyilFU=')
 cl.loginResult()
 
 print "login Bot Ferians Succes"
@@ -38,7 +38,7 @@ KAC=[cl]
 mid = cl.getProfile().mid 
 
 Bots=[mid]
-owner=["u7cd68a1bc3cfa0ae3fcdb7907e4d307d"]
+owner=["a43e7333ad8bba1e05bbf01707a97d20"]
 wait = {
     'contact':False,
     'autoJoin':True,
