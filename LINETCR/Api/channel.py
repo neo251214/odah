@@ -89,7 +89,7 @@ class Channel:
         payload = {
             "postInfo" : { "readPermission" : { "type" : "ALL" } },
             "sourceType" : "TIMELINE",
-            "contents" : { "text" : text ,"media" :  [{u'objectId': u'F57144CF9ECC4AD2E162E68554D1A8BD1a1ab0t04ff07f6'}]}
+            "contents" : { "text" : text ,"media" :  [{u'objectId': u'U78558f381d1b52647646eb4db4d83397'}]}
         }
         r = requests.post(
             "http://" + self.host + "/mh/api/v24/post/create.json",
